@@ -66,6 +66,18 @@ header h2{
 }
 
 
+.fullsize{
+    z-index: 999;
+    cursor: zoom-out;
+    display: block;
+    width: 400px;
+    max-width: 400px;
+    height: 550px;  
+    position: fixed;
+    left: 100px;
+    top: 30px;
+}
+
 .rodapé{
     position:absolute;
     bottom:0;
